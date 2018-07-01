@@ -1,0 +1,923 @@
+Feb 19 20:09 : exception: Failed to open /home/raks/.mpd/state: No such file or directory
+Feb 19 20:09 : exception: Failed to access /home/raks/Music: No such file or directory
+Feb 19 20:09 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 19 20:09 : avahi: Service 'Music Player' successfully established.
+Feb 19 20:12 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 19 20:12 : avahi: Service 'Music Player' successfully established.
+Feb 19 20:13 : avahi: Service 'Music Player' successfully established.
+Feb 19 20:19 : update: added NewSongs/3 Doors Down - Here Without You (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/maroon 5 - sunday morning.mp4
+Feb 19 20:19 : update: added NewSongs/faded.mp4
+Feb 19 20:19 : update: added NewSongs/a day to remember - end of me.mp4
+Feb 19 20:19 : update: added NewSongs/Avril Lavigne - Nobody's Home.mp4
+Feb 19 20:19 : update: added NewSongs/twenty one pilots- stressed out [official video].mp4
+Feb 19 20:19 : update: added NewSongs/YouTube - Avenged Sevenfold - Dear God (video).flv
+Feb 19 20:19 : update: added NewSongs/Junkyard Groove - four or five things.mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - 24k magic [official video].mp4
+Feb 19 20:19 : update: added NewSongs/eagles - best of my love ( 1974 ).mp4
+Feb 19 20:19 : update: added NewSongs/mike posner - i took a pill in ibiza (seeb remix) (explicit).mp4
+Feb 19 20:19 : update: added NewSongs/Lil Wayne - How To Love - Tyler Ward & Christina Grimmie (Rock Cover).flv
+Feb 19 20:19 : update: added NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4
+Feb 19 20:19 : update: added NewSongs/Me & My Broken Heart - Rixton - Macy Kate Cover.mp4
+Feb 19 20:19 : update: added NewSongs/maren morris - my church (lyric video).mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - What Do I Know_ [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/dear zindagi theme song.mp4
+Feb 19 20:19 : update: added NewSongs/Love will keep us alive - The EAGLES (With lyrics).mp4
+Feb 19 20:19 : update: added NewSongs/junkyard groove - screw control (krimson avenue sessions).mp4
+Feb 19 20:19 : update: added NewSongs/Fuuka - Fair wind - The fallen moon.mp4
+Feb 19 20:19 : update: added NewSongs/Eric Clapton- Wonderful Tonight.mp4
+Feb 19 20:19 : update: added NewSongs/Black Eyed Peas and Ariana Grande - Where Is The Love (One Love Manchester).mp4
+Feb 19 20:19 : update: added NewSongs/Alter Bridge - Isolation [www.keepvid.com].mp4
+Feb 19 20:19 : update: added NewSongs/Kings Of Leon - Use Somebody (Boyce Avenue feat. Hannah Trigwell acoustic cover) on iTunes & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/bars and melody - hopeful.mp4
+Feb 19 20:19 : update: added NewSongs/junkyard groove - say goodbye (acoustic).mp4
+Feb 19 20:19 : update: added NewSongs/meghan trainor - like i'm gonna lose you ft. john legend.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Save Myself [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/redone - don't you need somebody [official music video].mp4
+Feb 19 20:19 : update: added NewSongs/avicii ft. alesso - come to me.mp4
+Feb 19 20:19 : update: added NewSongs/james blunt - wisemen [official video].mp4
+Feb 19 20:19 : update: added NewSongs/Story Of The Year   Until The Day I Die [HQ-HD] [www.keepvid.com] (2).mp4
+Feb 19 20:19 : update: added NewSongs/one direction - what makes you beautiful.mp4
+Feb 19 20:19 : update: added NewSongs/Main Hoon Hero Tera - female version - Nikita Ahuja (cover).mp4
+Feb 19 20:19 : update: added NewSongs/just one touch...phoebe cates&billy wray.wmv.mp4
+Feb 19 20:19 : update: added NewSongs/aliee- i will always love you.mp4
+Feb 19 20:19 : update: added NewSongs/Cat Stevens – The Wind (OST Gifted).mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - How Would You Feel (Paean) [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Tu Hi Hai.mp3
+Feb 19 20:19 : update: added NewSongs/mark ronson - uptown funk ft. bruno mars.mp4
+Feb 19 20:19 : update: added NewSongs/tim mcgraw - humble and kind (official video).mp4
+Feb 19 20:19 : update: added NewSongs/flo rida - my house [official video].mp4
+Feb 19 20:19 : update: added NewSongs/one direction - one thing.mp4
+Feb 19 20:19 : update: added NewSongs/a day to remember - if it means a lot to you (audio).mp4
+Feb 19 20:19 : update: added NewSongs/OST - Tonari no kaibutsu-kun extended (Emotional).mp4
+Feb 19 20:19 : update: added NewSongs/someone like you.mp4
+Feb 19 20:19 : update: added NewSongs/Taylor Swift - Bad Blood ft. Kendrick Lamar.mp4
+Feb 19 20:19 : update: added NewSongs/James_Blunt_-_You_re_Beautiful.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Happier [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/amy winehouse - stronger than me (mokoa x mogul remix).mp4
+Feb 19 20:19 : update: added NewSongs/A walk to remember-Switchfoot.mp3
+Feb 19 20:19 : update: added NewSongs/Bars & Melody - Simon Cowell's Golden Buzzer act - Britain's Got Talent 2014.mp4
+Feb 19 20:19 : update: added NewSongs/YouTube - Disciple - Not Rock Stars.mp4
+Feb 19 20:19 : update: added NewSongs/christian beulah.mp3
+Feb 19 20:19 : update: added NewSongs/alessia cara - here.mp4
+Feb 19 20:19 : update: added NewSongs/your body is a wonderland.mp4
+Feb 19 20:19 : update: added NewSongs/alessia cara - wild things.mp4
+Feb 19 20:19 : update: added NewSongs/celine dion ave maria-- with lyrics.mp4
+Feb 19 20:19 : update: added NewSongs/junkyardgroove.mp4
+Feb 19 20:19 : update: added NewSongs/Sunday morning love you.mp4
+Feb 19 20:19 : update: added NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4
+Feb 19 20:19 : update: added NewSongs/Samjhawan Arijit singh full song .H S K D.mp4
+Feb 19 20:19 : update: added NewSongs/g-eazy x bebe rexha - me, myself & i.mp4
+Feb 19 20:19 : update: added NewSongs/ed sheeran- galaway girl.mp4
+Feb 19 20:19 : update: added NewSongs/ed sheeran.mp4
+Feb 19 20:19 : update: added NewSongs/can't stop the feeling! (from dreamworks animation's 'trolls') (official video).mp4
+Feb 19 20:19 : update: added NewSongs/tobu & marcus mouya - running away [ncs release].mp4
+Feb 19 20:19 : update: added NewSongs/Beautiful Soul -  Jesse McCartney (Boyce Avenue acoustic cover) on Apple & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/local train- aaoge tm kabhi.mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - it will rain [official video].mp4
+Feb 19 20:19 : update: added NewSongs/Tom Dice - Me And My Guitar (Belgium).mp4
+Feb 19 20:19 : update: added NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4
+Feb 19 20:19 : update: added NewSongs/Juicy J, Kevin Gates, Future & Sage the Gemini - Payback [Lyric Video - Furious 7 Soundtrack].mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Perfect [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Bullet For My Valentine - Hearts Burst Into Fire.mp4
+Feb 19 20:19 : update: added NewSongs/Your Body Is A Wonderland - John Mayer (Boyce Avenue cover) on iTunes & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/jason derulo - 'want to want me' (official video).mp4
+Feb 19 20:19 : update: added NewSongs/Imagine Dragons - Demons (Official).mp4
+Feb 19 20:19 : update: added NewSongs/r. city - locked away ft. adam levine.mp4
+Feb 19 20:19 : update: added NewSongs/fetty wap '679' feat. remy boyz (wshh premiere - official music video).mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - treasure [official music video].mp4
+Feb 19 20:19 : update: added NewSongs/For Good Performed by Kristin Chenoweth and Idina Menzel - WICKED the Musical.mp4
+Feb 19 20:19 : update: added NewSongs/rihanna - work (explicit) ft. drake.mp4
+Feb 19 20:19 : update: added NewSongs/Family of the Year - Hero (Official Music Video) 480p.mp4
+Feb 19 20:19 : update: added NewSongs/p!nk - stay with me (sam smith cover) in the live lounge.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - New Man [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/florida georgia line - h.o.l.y..mp4
+Feb 19 20:19 : update: added NewSongs/underground authority.mp4
+Feb 19 20:19 : update: added NewSongs/Story Of The Year - Sidewalks (Video) [www.keepvid.com].flv
+Feb 19 20:19 : update: added NewSongs/Bullet For My Valentine - Scream Aim Fire.mp4
+Feb 19 20:19 : update: added NewSongs/tvf-game of thrones.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Bibia Be Ye Ye [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Coldplay - The scientist.mp3
+Feb 19 20:19 : update: added NewSongs/lukas graham -  7 years [official music video].mp4
+Feb 19 20:19 : update: added NewSongs/local train - chhoo lo.mp4
+Feb 19 20:19 : update: added NewSongs/Main Hoon Hero Tera (Armaan Malik version) Full AUDIO Song - Hero - T-Series.mp4
+Feb 19 20:19 : update: added NewSongs/Paparoach_HOLLYWOODWHORE_HiRes.mov
+Feb 19 20:19 : update: added NewSongs/Jiyein Kyun ( Unplugged ) By Papon At MTV Unplugged - Best Of MTV Unplugged.mp4
+Feb 19 20:19 : update: added NewSongs/charlie puth - one call away [official video].mp4
+Feb 19 20:19 : update: added NewSongs/adele - someone like you.mp4
+Feb 19 20:19 : update: added NewSongs/dnce - cake by the ocean (lyric).mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Eraser [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Hasi ban gaye (female) l Hamari Adhuri Kahani.mp4
+Feb 19 20:19 : update: added NewSongs/charlie puth - we don't talk anymore (feat. selena gomez) [official video].mp4
+Feb 19 20:19 : update: added NewSongs/one direction - live while we're young.mp4
+Feb 19 20:19 : update: added NewSongs/Sheryl Crow - Sweet Child O'mine.mp4
+Feb 19 20:19 : update: added NewSongs/Hallelujah - Alexandra Burke.mp4
+Feb 19 20:19 : update: added NewSongs/somewhere i belong- linkin park.mp4
+Feb 19 20:19 : update: added NewSongs/Hillsong United - Hosanna - With Subtitles_Lyrics.mp4
+Feb 19 20:19 : update: added NewSongs/one direction - best song ever.mp4
+Feb 19 20:19 : update: added NewSongs/Guns N' Roses - Sweet Child O' Mine.mp4
+Feb 19 20:19 : update: added NewSongs/orkut - video.mp4
+Feb 19 20:19 : update: added NewSongs/Michael Jackson - Heal The World.mp4
+Feb 19 20:19 : update: added NewSongs/Majesty - Delirious with Hillsong (lyrics) (Last part) Best True Spirit Worship Song.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Nancy Mulligan [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/justin bieber - i'll show you.mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - grenade [official video].mp4
+Feb 19 20:19 : update: added NewSongs/soulmate - voodoo woman.mp4
+Feb 19 20:19 : update: added NewSongs/one direction - drag me down.mp4
+Feb 19 20:19 : update: added NewSongs/Radioactive - Imagine Dragons (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/major lazer - cold water (feat. justin bieber & mã) (official lyric video).mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Supermarket Flowers [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Iktara Unplugged - Amit Trivedi - MTV Unplugged - Dil Musicana.mp4
+Feb 19 20:19 : update: added NewSongs/Charlie Puth - Attention [Official Video].mp4
+Feb 19 20:19 : update: added NewSongs/chutzpah - game of thrones ki kahani.mp4
+Feb 19 20:19 : update: added NewSongs/avicii - waiting for love.mp4
+Feb 19 20:19 : update: added NewSongs/Jason Mraz - I'm Yours.flv
+Feb 19 20:19 : update: added NewSongs/the chainsmokers - don't let me down ft. daya.mp4
+Feb 19 20:19 : update: added NewSongs/Travie_McCoy__Billionaire_ft._Bruno_Mars.mp4
+Feb 19 20:19 : update: added NewSongs/the weeknd - can't feel my face.mp4
+Feb 19 20:19 : update: added NewSongs/Ariana Grande - Die In Your Arms cover (Justin Bieber).mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - the lazy song [official video].mp4
+Feb 19 20:19 : update: added NewSongs/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp4
+Feb 19 20:19 : update: added NewSongs/Hi-Rez - 3 Foot Tall (Classified Remix).mp4
+Feb 19 20:19 : update: added NewSongs/fukka ost.mp4
+Feb 19 20:19 : update: added NewSongs/Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber.mp4
+Feb 19 20:19 : update: added NewSongs/Here I am to Worship_Call - Hllsong (with Lyrics_Subtitles) (Worship Song).mp4
+Feb 19 20:19 : update: added NewSongs/Wiz Khalifa - Black And Yellow [G-Mix] ft. Snoop Dogg, Juicy J _ T-Pain [www.keepvid.com].mp4
+Feb 19 20:19 : update: added NewSongs/[メジャ] Major - Perfect Song Collection- 06 Ball Senkou.mp4
+Feb 19 20:19 : update: added NewSongs/Avril Lavigne - Falling Fast (Official Music Video).mp4
+Feb 19 20:19 : update: added NewSongs/Skrillex and Diplo - Where Are Ü Now with Justin Bieber (Official Video).mp4
+Feb 19 20:19 : update: added NewSongs/justin bieber - love yourself  (purpose  the movement).mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Thinking Out Loud [Official Video].mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - when i was your man [official video].mp4
+Feb 19 20:19 : update: added NewSongs/dc - back in black.mp4
+Feb 19 20:19 : update: added NewSongs/Amy Winehouse - You Know I'm No Good 480p.mp4
+Feb 19 20:19 : update: added NewSongs/body is a wonderland.mp4
+Feb 19 20:19 : update: added NewSongs/dj snake ft. justin bieber - let me love you [lyric video].mp4
+Feb 19 20:19 : update: added NewSongs/Fuuka - For you.mp4
+Feb 19 20:19 : update: added NewSongs/acdc - tnt official video.mp4
+Feb 19 20:19 : update: added NewSongs/maroon 5 - moves like jagger ft. christina aguilera.mp4
+Feb 19 20:19 : update: added NewSongs/maroon 5 - sugar.mp4
+Feb 19 20:19 : update: added NewSongs/Tears Dont Fall-Acoustic-Bullet For My Valentine-Unplugged-HD.mp4
+Feb 19 20:19 : update: added NewSongs/Pehla Nasha - Jo Jeeta Wohi Sikandar (1080p HD Song).mp4
+Feb 19 20:19 : update: added NewSongs/Heavy (Official Video) - Linkin Park (feat. Kiiara).mp4
+Feb 19 20:19 : update: added NewSongs/adele - skyfall (lyric video).mp4
+Feb 19 20:19 : update: added NewSongs/justin bieber - sorry (purpose  the movement).mp4
+Feb 19 20:19 : update: added NewSongs/linkin park- heavy .mp4
+Feb 19 20:19 : update: added NewSongs/one direction - you & i.mp4
+Feb 19 20:19 : update: added NewSongs/Creed - My Sacrifice (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Hearts Don't Break Round Here [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/Ed Sheeran - Dive [Official Audio].mp4
+Feb 19 20:19 : update: added NewSongs/james arthur - impossible (ed sheeran cover) (wylen remix).mp4
+Feb 19 20:19 : update: added NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4
+Feb 19 20:19 : update: added NewSongs/YouTube - Groove Coverage - God Is A Girl ( with lyrics ).mp4
+Feb 19 20:19 : update: added NewSongs/YouTube - Avenged Sevenfold - -So Far Away- [HD].flv
+Feb 19 20:19 : update: added NewSongs/Bezubaan - Piku - Anupam Roy - Amitabh Bachchan, Irrfan Khan & Deepika Padukone.mp4
+Feb 19 20:19 : update: added NewSongs/harry styles- sign of the times.mp4
+Feb 19 20:19 : update: added NewSongs/dc - highway to hell.mp4
+Feb 19 20:19 : update: added NewSongs/maroon 5 - she will be loved.mp4
+Feb 19 20:19 : update: added NewSongs/bruno mars - gorilla [official music video].mp4
+Feb 19 20:19 : update: added NewSongs/Fuuka - Hoshi no Furu Machi - Manami Numakura.mp4
+Feb 19 20:19 : update: added NewSongs/aalvin-sims_zara-sa-acoustic-cover-by-aalvin-sims.mp3
+Feb 19 20:19 : update: added NewSongs/Survivor - Eye Of The Tiger.mp4
+Feb 19 20:19 : update: added NewSongs/The Black Eyed Peas - Where Is The Love_.mp4
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:22 : exception: No such song
+Feb 19 20:26 : player: played "NewSongs/a day to remember - end of me.mp4"
+Feb 19 20:27 : player: played "NewSongs/a day to remember - if it means a lot to you (audio).mp4"
+Feb 19 20:28 : avahi: Service 'Music Player' successfully established.
+Feb 19 20:31 : player: played "NewSongs/a day to remember - if it means a lot to you (audio).mp4"
+Feb 19 20:35 : player: played "NewSongs/a day to remember - if it means a lot to you (audio).mp4"
+Feb 19 20:37 : player: played "NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4"
+Feb 19 22:18 : player: played "NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4"
+Feb 19 22:19 : avahi: Service 'Music Player' successfully established.
+Feb 19 22:55 : player: played "NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4"
+Feb 19 23:55 : player: played "NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4"
+Feb 20 08:42 : avahi: Service 'Music Player' successfully established.
+Feb 20 08:45 : player: played "NewSongs/A Day to remember If it Means a lot to you (Music Video).mp4"
+Feb 20 11:20 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 20 12:14 : avahi: Service 'Music Player' successfully established.
+Feb 20 14:22 : exception: "MPD" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Feb 20 14:23 : exception: Failed to open "MPD" [pulse]
+Feb 20 14:23 : exception: nested: pa_context_connect() has failed: Connection refused
+Feb 20 14:23 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 21 19:45 : avahi: Service 'Music Player' successfully established.
+Feb 22 00:20 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 00:20 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 00:20 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 22 13:30 : avahi: Service 'Music Player' successfully established.
+Feb 22 17:58 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 17:58 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 17:58 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 22 20:06 : avahi: Service 'Music Player' successfully established.
+Feb 23 00:47 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 23 01:10 : avahi: Service 'Music Player' successfully established.
+Feb 23 01:13 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 01:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 23 01:13 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 23 13:04 : avahi: Service 'Music Player' successfully established.
+Feb 23 17:00 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 24 10:27 : avahi: Service 'Music Player' successfully established.
+Feb 24 13:03 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 24 15:11 : avahi: Service 'Music Player' successfully established.
+Feb 24 15:40 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 24 16:22 : avahi: Service 'Music Player' successfully established.
+Feb 24 16:45 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 24 21:16 : avahi: Service 'Music Player' successfully established.
+Feb 25 00:05 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 26 13:24 : avahi: Service 'Music Player' successfully established.
+Feb 26 16:09 : avahi: Client Disconnected, will reconnect shortly
+Feb 26 16:09 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 26 16:09 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Feb 27 20:57 : avahi: Service 'Music Player' successfully established.
+Feb 27 21:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 21:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 21:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 27 21:24 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 01 13:30 : avahi: Service 'Music Player' successfully established.
+Mar 01 16:35 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 01 17:32 : avahi: Service 'Music Player' successfully established.
+Mar 01 21:35 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 01 22:12 : avahi: Service 'Music Player' successfully established.
+Mar 02 00:24 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 02 10:45 : avahi: Service 'Music Player' successfully established.
+Mar 02 17:15 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 17:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 17:15 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 02 19:37 : avahi: Service 'Music Player' successfully established.
+Mar 03 00:52 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 03 02:56 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 03 10:27 : avahi: Service 'Music Player' successfully established.
+Mar 03 12:35 : player: played "NewSongs/Ed Sheeran - Barcelona [Official Audio].mp4"
+Mar 03 13:03 : player: played "NewSongs/Love will keep us alive - The EAGLES (With lyrics).mp4"
+Mar 03 13:06 : player: played "NewSongs/r. city - locked away ft. adam levine.mp4"
+Mar 03 13:12 : avahi: Service 'Music Player' successfully established.
+Mar 03 21:50 : avahi: Service 'Music Player' successfully established.
+Mar 04 01:03 : avahi: Client Disconnected, will reconnect shortly
+Mar 04 01:03 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 04 07:23 : avahi: Service 'Music Player' successfully established.
+Mar 04 13:41 : avahi: Service 'Music Player' successfully established.
+Mar 04 21:01 : avahi: Service 'Music Player' successfully established.
+Mar 05 09:26 : avahi: Service 'Music Player' successfully established.
+Mar 05 13:13 : avahi: Service 'Music Player' successfully established.
+Mar 05 15:08 : avahi: Service 'Music Player' successfully established.
+Mar 05 18:54 : avahi: Service 'Music Player' successfully established.
+Mar 06 10:36 : avahi: Service 'Music Player' successfully established.
+Mar 06 19:18 : avahi: Service 'Music Player' successfully established.
+Mar 07 11:03 : avahi: Service 'Music Player' successfully established.
+Mar 07 14:18 : avahi: Service 'Music Player' successfully established.
+Mar 07 15:13 : player: played "NewSongs/p!nk - stay with me (sam smith cover) in the live lounge.mp4"
+Mar 07 15:17 : player: played "NewSongs/avicii ft. alesso - come to me.mp4"
+Mar 07 15:20 : player: played "NewSongs/Ed Sheeran - Bibia Be Ye Ye [Official Audio].mp4"
+Mar 07 15:24 : player: played "NewSongs/Taylor Swift - Bad Blood ft. Kendrick Lamar.mp4"
+Mar 07 15:29 : player: played "NewSongs/Sunday morning love you.mp4"
+Mar 07 16:29 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 07 19:28 : avahi: Service 'Music Player' successfully established.
+Mar 08 02:35 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 08 10:56 : avahi: Service 'Music Player' successfully established.
+Mar 08 11:29 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 08 12:11 : avahi: Service 'Music Player' successfully established.
+Mar 08 13:34 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 08 18:48 : avahi: Service 'Music Player' successfully established.
+Mar 08 21:07 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 09 20:57 : avahi: Service 'Music Player' successfully established.
+Mar 10 02:53 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 10 11:08 : avahi: Service 'Music Player' successfully established.
+Mar 10 13:38 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 10 18:19 : avahi: Service 'Music Player' successfully established.
+Mar 10 18:20 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 10 20:37 : avahi: Service 'Music Player' successfully established.
+Mar 11 02:21 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Mar 11 20:42 : avahi: Service 'Music Player' successfully established.
+Mar 12 03:50 : avahi: Client Disconnected, will reconnect shortly
+Mar 12 03:50 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 12 10:39 : avahi: Service 'Music Player' successfully established.
+Mar 12 10:46 : avahi: Client Disconnected, will reconnect shortly
+Mar 12 10:46 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 12 11:59 : avahi: Service 'Music Player' successfully established.
+Mar 12 15:22 : avahi: Client Disconnected, will reconnect shortly
+Mar 12 15:22 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 12 18:56 : avahi: Service 'Music Player' successfully established.
+Mar 13 10:43 : avahi: Service 'Music Player' successfully established.
+Mar 13 15:11 : player: played "NewSongs/alessia cara - here.mp4"
+Mar 13 15:14 : player: played "NewSongs/ed sheeran- galaway girl.mp4"
+Mar 13 15:18 : player: played "NewSongs/avicii ft. alesso - come to me.mp4"
+Mar 13 15:25 : player: played "NewSongs/Black Eyed Peas and Ariana Grande - Where Is The Love (One Love Manchester).mp4"
+Mar 13 15:29 : player: played "NewSongs/Ariana Grande - Die In Your Arms cover (Justin Bieber).mp4"
+Mar 13 15:33 : player: played "NewSongs/lukas graham -  7 years [official music video].mp4"
+Mar 13 15:37 : player: played "NewSongs/Lil Wayne - How To Love - Tyler Ward & Christina Grimmie (Rock Cover).flv"
+Mar 13 15:42 : player: played "NewSongs/Ed Sheeran - How Would You Feel (Paean) [Official Audio].mp4"
+Mar 13 15:46 : player: played "NewSongs/ed sheeran.mp4"
+Mar 13 15:52 : player: played "NewSongs/fukka ost.mp4"
+Mar 13 15:56 : player: played "NewSongs/Taylor Swift - Bad Blood ft. Kendrick Lamar.mp4"
+Mar 13 16:04 : player: played "NewSongs/Bars & Melody - Simon Cowell's Golden Buzzer act - Britain's Got Talent 2014.mp4"
+Mar 13 16:08 : player: played "NewSongs/Story Of The Year   Until The Day I Die [HQ-HD] [www.keepvid.com] (2).mp4"
+Mar 13 16:13 : player: played "NewSongs/Creed - My Sacrifice (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4"
+Mar 13 16:16 : player: played "NewSongs/Family of the Year - Hero (Official Music Video) 480p.mp4"
+Mar 13 16:20 : player: played "NewSongs/YouTube - Disciple - Not Rock Stars.mp4"
+Mar 13 16:24 : player: played "NewSongs/your body is a wonderland.mp4"
+Mar 13 16:28 : player: played "NewSongs/florida georgia line - h.o.l.y..mp4"
+Mar 13 16:31 : player: played "NewSongs/linkin park- heavy .mp4"
+Mar 13 16:36 : player: played "NewSongs/maroon 5 - sugar.mp4"
+Mar 13 16:39 : player: played "NewSongs/Fuuka - Fair wind - The fallen moon.mp4"
+Mar 13 16:45 : player: played "NewSongs/chutzpah - game of thrones ki kahani.mp4"
+Mar 13 16:48 : player: played "NewSongs/James_Blunt_-_You_re_Beautiful.mp4"
+Mar 13 16:52 : player: played "NewSongs/one direction - what makes you beautiful.mp4"
+Mar 13 16:57 : player: played "NewSongs/g-eazy x bebe rexha - me, myself & i.mp4"
+Mar 13 19:20 : avahi: Service 'Music Player' successfully established.
+Mar 14 03:47 : player: played "NewSongs/g-eazy x bebe rexha - me, myself & i.mp4"
+Mar 14 11:31 : avahi: Service 'Music Player' successfully established.
+Mar 14 16:24 : avahi: Client Disconnected, will reconnect shortly
+Mar 14 16:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 14 16:24 : player: played "NewSongs/g-eazy x bebe rexha - me, myself & i.mp4"
+Mar 14 19:34 : avahi: Service 'Music Player' successfully established.
+Mar 15 02:29 : player: played "NewSongs/g-eazy x bebe rexha - me, myself & i.mp4"
+Mar 15 11:49 : avahi: Service 'Music Player' successfully established.
+Mar 15 15:50 : player: played "NewSongs/g-eazy x bebe rexha - me, myself & i.mp4"
+Mar 15 21:56 : avahi: Service 'Music Player' successfully established.
+Mar 15 23:46 : avahi: Client Disconnected, will reconnect shortly
+Mar 15 23:46 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 16 00:07 : avahi: Service 'Music Player' successfully established.
+Mar 16 00:54 : avahi: Service 'Music Player' successfully established.
+Mar 16 11:38 : avahi: Service 'Music Player' successfully established.
+Mar 16 14:33 : avahi: Service 'Music Player' successfully established.
+Mar 16 16:53 : avahi: Client Disconnected, will reconnect shortly
+Mar 16 16:53 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 16 18:52 : avahi: Service 'Music Player' successfully established.
+Mar 17 12:56 : avahi: Service 'Music Player' successfully established.
+Mar 17 20:47 : avahi: Service 'Music Player' successfully established.
+Mar 18 02:11 : avahi: Client Disconnected, will reconnect shortly
+Mar 18 02:11 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 18 11:55 : avahi: Service 'Music Player' successfully established.
+Mar 18 15:21 : avahi: Service 'Music Player' successfully established.
+Mar 18 19:01 : avahi: Service 'Music Player' successfully established.
+Mar 19 12:07 : avahi: Service 'Music Player' successfully established.
+Mar 19 15:14 : avahi: Service 'Music Player' successfully established.
+Mar 19 18:50 : avahi: Service 'Music Player' successfully established.
+Mar 20 13:35 : avahi: Service 'Music Player' successfully established.
+Mar 20 19:13 : avahi: Service 'Music Player' successfully established.
+Mar 21 13:57 : avahi: Service 'Music Player' successfully established.
+Mar 21 16:19 : avahi: Client Disconnected, will reconnect shortly
+Mar 21 16:19 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 21 19:20 : avahi: Service 'Music Player' successfully established.
+Mar 22 06:45 : avahi: Service 'Music Player' successfully established.
+Mar 22 06:56 : avahi: Service 'Music Player' successfully established.
+Mar 22 07:57 : avahi: Client Disconnected, will reconnect shortly
+Mar 22 07:57 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 22 12:47 : avahi: Service 'Music Player' successfully established.
+Mar 22 18:40 : avahi: Service 'Music Player' successfully established.
+Mar 23 08:17 : avahi: Service 'Music Player' successfully established.
+Mar 23 14:55 : avahi: Service 'Music Player' successfully established.
+Mar 23 20:22 : avahi: Service 'Music Player' successfully established.
+Mar 24 08:44 : avahi: Service 'Music Player' successfully established.
+Mar 24 10:35 : avahi: Client Disconnected, will reconnect shortly
+Mar 24 10:35 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 24 13:48 : avahi: Service 'Music Player' successfully established.
+Mar 24 15:15 : avahi: Client Disconnected, will reconnect shortly
+Mar 24 15:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 24 17:34 : avahi: Service 'Music Player' successfully established.
+Mar 24 21:00 : avahi: Service 'Music Player' successfully established.
+Mar 25 07:44 : avahi: Service 'Music Player' successfully established.
+Mar 25 10:59 : avahi: Service 'Music Player' successfully established.
+Mar 25 14:29 : avahi: Service 'Music Player' successfully established.
+Mar 25 18:19 : avahi: Service 'Music Player' successfully established.
+Mar 26 01:16 : avahi: Client Disconnected, will reconnect shortly
+Mar 26 01:16 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 26 10:35 : avahi: Service 'Music Player' successfully established.
+Mar 26 18:26 : avahi: Service 'Music Player' successfully established.
+Mar 26 23:29 : avahi: Client Disconnected, will reconnect shortly
+Mar 26 23:29 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 27 10:09 : avahi: Service 'Music Player' successfully established.
+Mar 27 12:24 : avahi: Service 'Music Player' successfully established.
+Mar 27 19:22 : avahi: Service 'Music Player' successfully established.
+Mar 27 20:33 : avahi: Service 'Music Player' successfully established.
+Mar 28 21:12 : avahi: Service 'Music Player' successfully established.
+Mar 29 00:44 : avahi: Client Disconnected, will reconnect shortly
+Mar 29 00:44 : avahi: Could not reconnect: Daemon connection failed
+Mar 29 09:31 : avahi: Service 'Music Player' successfully established.
+Mar 29 13:32 : avahi: Service 'Music Player' successfully established.
+Mar 29 20:46 : avahi: Service 'Music Player' successfully established.
+Mar 30 03:42 : avahi: Service 'Music Player' successfully established.
+Mar 30 06:42 : avahi: Client Disconnected, will reconnect shortly
+Mar 30 06:42 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 30 10:41 : avahi: Service 'Music Player' successfully established.
+Mar 30 16:23 : avahi: Client Disconnected, will reconnect shortly
+Mar 30 16:23 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 30 16:29 : avahi: Service 'Music Player' successfully established.
+Mar 30 20:13 : avahi: Client Disconnected, will reconnect shortly
+Mar 30 20:13 : avahi: Could not reconnect: Daemon connection failed
+Mar 30 20:49 : avahi: Service 'Music Player' successfully established.
+Mar 30 22:29 : avahi: Service 'Music Player' successfully established.
+Mar 31 10:08 : avahi: Service 'Music Player' successfully established.
+Mar 31 14:47 : avahi: Service 'Music Player' successfully established.
+Mar 31 16:56 : avahi: Service 'Music Player' successfully established.
+Apr 01 02:06 : avahi: Service 'Music Player' successfully established.
+Apr 01 10:57 : avahi: Service 'Music Player' successfully established.
+Apr 01 18:39 : avahi: Service 'Music Player' successfully established.
+Apr 02 10:39 : exception: Failed to enable output "MPD" [pulse]
+Apr 02 10:39 : exception: nested: pa_context_connect() has failed: Connection refused
+Apr 02 10:39 : avahi: Service 'Music Player' successfully established.
+Apr 02 15:20 : avahi: Client Disconnected, will reconnect shortly
+Apr 02 15:20 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 02 17:27 : avahi: Service 'Music Player' successfully established.
+Apr 02 22:15 : avahi: Service 'Music Player' successfully established.
+Apr 03 10:45 : avahi: Service 'Music Player' successfully established.
+Apr 03 14:53 : avahi: Client Disconnected, will reconnect shortly
+Apr 03 14:53 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 03 18:37 : avahi: Service 'Music Player' successfully established.
+Apr 04 01:37 : avahi: Client Disconnected, will reconnect shortly
+Apr 04 01:37 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 04 10:57 : avahi: Service 'Music Player' successfully established.
+Apr 04 19:02 : avahi: Service 'Music Player' successfully established.
+Apr 05 11:48 : avahi: Service 'Music Player' successfully established.
+Apr 05 20:16 : avahi: Service 'Music Player' successfully established.
+Apr 06 03:09 : avahi: Client Disconnected, will reconnect shortly
+Apr 06 03:09 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 06 14:00 : avahi: Service 'Music Player' successfully established.
+Apr 06 16:37 : avahi: Client Disconnected, will reconnect shortly
+Apr 06 16:37 : avahi: Client Disconnected, will reconnect shortly
+Apr 06 16:37 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 06 17:37 : avahi: Service 'Music Player' successfully established.
+Apr 07 22:31 : avahi: Service 'Music Player' successfully established.
+Apr 08 18:35 : avahi: Service 'Music Player' successfully established.
+Apr 09 01:24 : avahi: Client Disconnected, will reconnect shortly
+Apr 09 01:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 09 10:29 : avahi: Service 'Music Player' successfully established.
+Apr 09 18:32 : avahi: Service 'Music Player' successfully established.
+Apr 10 12:11 : avahi: Service 'Music Player' successfully established.
+Apr 10 15:22 : avahi: Service 'Music Player' successfully established.
+Apr 11 13:01 : avahi: Service 'Music Player' successfully established.
+Apr 11 19:33 : avahi: Service 'Music Player' successfully established.
+Apr 12 11:50 : avahi: Service 'Music Player' successfully established.
+Apr 12 13:51 : avahi: Client Disconnected, will reconnect shortly
+Apr 12 13:51 : avahi: Client Disconnected, will reconnect shortly
+Apr 12 13:51 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 12 15:00 : avahi: Service 'Music Player' successfully established.
+Apr 12 17:17 : avahi: Client Disconnected, will reconnect shortly
+Apr 12 17:17 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 12 19:22 : avahi: Service 'Music Player' successfully established.
+Apr 13 11:54 : avahi: Service 'Music Player' successfully established.
+Apr 13 18:55 : avahi: Service 'Music Player' successfully established.
+Apr 14 12:16 : avahi: Service 'Music Player' successfully established.
+Apr 14 20:39 : avahi: Service 'Music Player' successfully established.
+Apr 15 11:52 : avahi: Service 'Music Player' successfully established.
+Apr 15 22:51 : avahi: Service 'Music Player' successfully established.
+Apr 16 11:16 : avahi: Service 'Music Player' successfully established.
+Apr 16 20:47 : avahi: Service 'Music Player' successfully established.
+Apr 17 09:59 : avahi: Service 'Music Player' successfully established.
+Apr 17 11:00 : avahi: Client Disconnected, will reconnect shortly
+Apr 17 11:00 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 17 12:25 : avahi: Service 'Music Player' successfully established.
+Apr 17 18:50 : avahi: Service 'Music Player' successfully established.
+Apr 18 11:51 : avahi: Service 'Music Player' successfully established.
+Apr 18 15:47 : avahi: Client Disconnected, will reconnect shortly
+Apr 18 15:47 : avahi: Client Disconnected, will reconnect shortly
+Apr 18 15:47 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 18 18:17 : avahi: Service 'Music Player' successfully established.
+Apr 18 18:25 : avahi: Client Disconnected, will reconnect shortly
+Apr 18 18:25 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 18 22:08 : avahi: Service 'Music Player' successfully established.
+Apr 19 02:52 : avahi: Client Disconnected, will reconnect shortly
+Apr 19 02:52 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 19 11:41 : avahi: Service 'Music Player' successfully established.
+Apr 19 19:32 : avahi: Service 'Music Player' successfully established.
+Apr 20 11:03 : avahi: Service 'Music Player' successfully established.
+Apr 20 20:19 : avahi: Service 'Music Player' successfully established.
+Apr 21 10:39 : avahi: Service 'Music Player' successfully established.
+Apr 21 20:50 : avahi: Service 'Music Player' successfully established.
+Apr 22 09:44 : avahi: Service 'Music Player' successfully established.
+Apr 22 12:36 : avahi: Service 'Music Player' successfully established.
+Apr 22 20:21 : avahi: Service 'Music Player' successfully established.
+Apr 23 10:24 : avahi: Service 'Music Player' successfully established.
+Apr 23 14:32 : avahi: Service 'Music Player' successfully established.
+Apr 23 18:52 : avahi: Service 'Music Player' successfully established.
+Apr 24 09:28 : avahi: Service 'Music Player' successfully established.
+Apr 24 19:31 : avahi: Service 'Music Player' successfully established.
+Apr 25 01:48 : avahi: Client Disconnected, will reconnect shortly
+Apr 25 01:48 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 25 10:46 : avahi: Service 'Music Player' successfully established.
+Apr 25 19:07 : avahi: Service 'Music Player' successfully established.
+Apr 25 19:36 : player: played "NewSongs/YouTube - Disciple - Not Rock Stars.mp4"
+Apr 26 10:29 : avahi: Service 'Music Player' successfully established.
+Apr 26 18:16 : avahi: Service 'Music Player' successfully established.
+Apr 26 21:02 : avahi: Service 'Music Player' successfully established.
+Apr 27 09:44 : avahi: Service 'Music Player' successfully established.
+Apr 27 13:39 : avahi: Service 'Music Player' successfully established.
+Apr 27 18:06 : avahi: Service 'Music Player' successfully established.
+Apr 27 18:14 : avahi: Client Disconnected, will reconnect shortly
+Apr 27 18:14 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Apr 27 18:51 : avahi: Service 'Music Player' successfully established.
+Apr 28 20:50 : avahi: Service 'Music Player' successfully established.
+Apr 29 10:57 : avahi: Service 'Music Player' successfully established.
+Apr 29 22:28 : avahi: Service 'Music Player' successfully established.
+Apr 30 10:48 : avahi: Service 'Music Player' successfully established.
+Apr 30 20:40 : avahi: Service 'Music Player' successfully established.
+May 01 12:34 : avahi: Service 'Music Player' successfully established.
+May 01 20:41 : avahi: Service 'Music Player' successfully established.
+May 02 10:58 : avahi: Service 'Music Player' successfully established.
+May 02 12:52 : avahi: Service 'Music Player' successfully established.
+May 02 18:32 : avahi: Service 'Music Player' successfully established.
+May 03 10:56 : avahi: Service 'Music Player' successfully established.
+May 03 12:30 : avahi: Service 'Music Player' successfully established.
+May 03 14:39 : avahi: Service 'Music Player' successfully established.
+May 03 18:57 : avahi: Service 'Music Player' successfully established.
+May 04 02:16 : avahi: Service 'Music Player' successfully established.
+May 04 11:40 : avahi: Service 'Music Player' successfully established.
+May 04 19:13 : avahi: Service 'Music Player' successfully established.
+May 05 12:09 : avahi: Service 'Music Player' successfully established.
+May 05 17:49 : avahi: Service 'Music Player' successfully established.
+May 05 18:58 : avahi: Service 'Music Player' successfully established.
+May 05 20:13 : avahi: Service 'Music Player' successfully established.
+May 06 11:15 : avahi: Service 'Music Player' successfully established.
+May 06 13:46 : avahi: Service 'Music Player' successfully established.
+May 07 10:44 : avahi: Service 'Music Player' successfully established.
+May 07 19:22 : avahi: Service 'Music Player' successfully established.
+May 08 10:48 : avahi: Service 'Music Player' successfully established.
+May 08 13:59 : avahi: Service 'Music Player' successfully established.
+May 08 19:13 : avahi: Service 'Music Player' successfully established.
+May 09 12:58 : avahi: Service 'Music Player' successfully established.
+May 09 16:05 : avahi: Service 'Music Player' successfully established.
+May 09 16:31 : avahi: Client Disconnected, will reconnect shortly
+May 09 16:31 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 09 21:28 : avahi: Service 'Music Player' successfully established.
+May 09 23:59 : avahi: Service 'Music Player' successfully established.
+May 10 11:32 : avahi: Service 'Music Player' successfully established.
+May 10 20:08 : avahi: Service 'Music Player' successfully established.
+May 11 09:56 : avahi: Service 'Music Player' successfully established.
+May 11 13:13 : avahi: Service 'Music Player' successfully established.
+May 11 18:39 : avahi: Service 'Music Player' successfully established.
+May 12 09:53 : avahi: Service 'Music Player' successfully established.
+May 12 10:14 : avahi: Client Disconnected, will reconnect shortly
+May 12 10:14 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 12 10:16 : avahi: Service 'Music Player' successfully established.
+May 12 15:19 : avahi: Service 'Music Player' successfully established.
+May 12 17:02 : avahi: Client Disconnected, will reconnect shortly
+May 12 17:02 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 12 18:12 : avahi: Service 'Music Player' successfully established.
+May 13 11:56 : avahi: Service 'Music Player' successfully established.
+May 13 12:22 : player: played "NewSongs/redone - don't you need somebody [official music video].mp4"
+May 13 12:27 : player: played "NewSongs/Creed - My Sacrifice (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4"
+May 13 12:30 : player: played "NewSongs/ed sheeran- galaway girl.mp4"
+May 13 12:34 : player: played "NewSongs/underground authority.mp4"
+May 13 12:38 : player: played "NewSongs/Eric Clapton- Wonderful Tonight.mp4"
+May 13 12:42 : player: played "NewSongs/Story Of The Year - Sidewalks (Video) [www.keepvid.com].flv"
+May 13 12:45 : player: played "NewSongs/charlie puth - we don't talk anymore (feat. selena gomez) [official video].mp4"
+May 13 12:53 : player: played "NewSongs/rihanna - work (explicit) ft. drake.mp4"
+May 13 12:57 : player: played "NewSongs/Ed Sheeran - What Do I Know_ [Official Audio].mp4"
+May 13 12:57 : avahi: Client Disconnected, will reconnect shortly
+May 13 12:57 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 13 12:57 : exception: "MPD" [pulse] failed to play: disconnected
+May 13 12:57 : player: played "NewSongs/Beautiful Soul -  Jesse McCartney (Boyce Avenue acoustic cover) on Apple & Spotify.mp4"
+May 13 14:44 : avahi: Service 'Music Player' successfully established.
+May 13 14:47 : player: played "NewSongs/ed sheeran- galaway girl.mp4"
+May 13 18:04 : avahi: Service 'Music Player' successfully established.
+May 14 07:41 : avahi: Service 'Music Player' successfully established.
+May 14 17:54 : avahi: Service 'Music Player' successfully established.
+May 14 18:46 : avahi: Service 'Music Player' successfully established.
+May 14 20:02 : avahi: Client Disconnected, will reconnect shortly
+May 14 20:02 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 14 21:03 : avahi: Service 'Music Player' successfully established.
+May 14 22:16 : avahi: Service 'Music Player' successfully established.
+May 15 10:14 : avahi: Service 'Music Player' successfully established.
+May 15 17:12 : avahi: Service 'Music Player' successfully established.
+May 15 20:58 : avahi: Service 'Music Player' successfully established.
+May 16 09:38 : avahi: Service 'Music Player' successfully established.
+May 16 13:52 : avahi: Service 'Music Player' successfully established.
+May 16 16:46 : avahi: Client Disconnected, will reconnect shortly
+May 16 16:46 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 16 20:40 : avahi: Service 'Music Player' successfully established.
+May 16 21:46 : avahi: Client Disconnected, will reconnect shortly
+May 16 21:46 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 17 01:40 : avahi: Service 'Music Player' successfully established.
+May 17 21:53 : avahi: Service 'Music Player' successfully established.
+May 18 12:51 : avahi: Service 'Music Player' successfully established.
+May 18 16:12 : avahi: Service 'Music Player' successfully established.
+May 18 23:21 : avahi: Service 'Music Player' successfully established.
+May 19 13:35 : avahi: Service 'Music Player' successfully established.
+May 19 18:03 : avahi: Service 'Music Player' successfully established.
+May 19 21:08 : avahi: Service 'Music Player' successfully established.
+May 20 09:29 : avahi: Service 'Music Player' successfully established.
+May 20 13:48 : avahi: Service 'Music Player' successfully established.
+May 20 17:06 : avahi: Service 'Music Player' successfully established.
+May 21 13:11 : avahi: Service 'Music Player' successfully established.
+May 21 18:46 : avahi: Service 'Music Player' successfully established.
+May 21 21:22 : avahi: Service 'Music Player' successfully established.
+May 22 17:48 : avahi: Service 'Music Player' successfully established.
+May 23 10:54 : avahi: Service 'Music Player' successfully established.
+May 23 20:07 : avahi: Service 'Music Player' successfully established.
+May 24 09:33 : avahi: Service 'Music Player' successfully established.
+May 24 16:21 : avahi: Service 'Music Player' successfully established.
+May 24 18:55 : avahi: Service 'Music Player' successfully established.
+May 24 21:29 : avahi: Service 'Music Player' successfully established.
+May 25 09:04 : avahi: Service 'Music Player' successfully established.
+May 25 19:00 : avahi: Service 'Music Player' successfully established.
+May 26 19:26 : avahi: Service 'Music Player' successfully established.
+May 26 22:46 : avahi: Service 'Music Player' successfully established.
+May 26 23:28 : avahi: Service 'Music Player' successfully established.
+May 27 01:02 : avahi: Client Disconnected, will reconnect shortly
+May 27 01:02 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 27 15:46 : avahi: Service 'Music Player' successfully established.
+May 27 18:10 : avahi: Service 'Music Player' successfully established.
+May 27 23:21 : avahi: Service 'Music Player' successfully established.
+May 28 11:38 : avahi: Service 'Music Player' successfully established.
+May 28 18:36 : avahi: Service 'Music Player' successfully established.
+May 29 00:26 : avahi: Client Disconnected, will reconnect shortly
+May 29 00:26 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 29 10:38 : avahi: Service 'Music Player' successfully established.
+May 29 16:54 : avahi: Client Disconnected, will reconnect shortly
+May 29 16:54 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+May 29 17:35 : avahi: Service 'Music Player' successfully established.
+May 30 13:02 : avahi: Service 'Music Player' successfully established.
+May 30 16:43 : avahi: Service 'Music Player' successfully established.
+May 30 18:48 : avahi: Service 'Music Player' successfully established.
+May 30 20:14 : avahi: Service 'Music Player' successfully established.
+May 31 09:15 : avahi: Service 'Music Player' successfully established.
+May 31 10:42 : avahi: Service 'Music Player' successfully established.
+May 31 12:08 : avahi: Service 'Music Player' successfully established.
+May 31 14:33 : avahi: Service 'Music Player' successfully established.
+Jun 01 19:36 : avahi: Service 'Music Player' successfully established.
+Jun 02 13:04 : avahi: Service 'Music Player' successfully established.
+Jun 02 18:52 : avahi: Service 'Music Player' successfully established.
+Jun 03 14:17 : avahi: Service 'Music Player' successfully established.
+Jun 03 15:19 : avahi: Service 'Music Player' successfully established.
+Jun 03 17:00 : avahi: Service 'Music Player' successfully established.
+Jun 03 23:22 : avahi: Service 'Music Player' successfully established.
+Jun 04 12:18 : avahi: Service 'Music Player' successfully established.
+Jun 04 13:16 : avahi: Client Disconnected, will reconnect shortly
+Jun 04 13:16 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 04 20:50 : avahi: Service 'Music Player' successfully established.
+Jun 05 00:39 : avahi: Client Disconnected, will reconnect shortly
+Jun 05 00:39 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 05 02:11 : avahi: Service 'Music Player' successfully established.
+Jun 05 09:57 : avahi: Service 'Music Player' successfully established.
+Jun 05 14:37 : avahi: Service 'Music Player' successfully established.
+Jun 05 20:21 : avahi: Service 'Music Player' successfully established.
+Jun 08 15:57 : avahi: Service 'Music Player' successfully established.
+Jun 08 18:03 : avahi: Service 'Music Player' successfully established.
+Jun 09 08:22 : avahi: Service 'Music Player' successfully established.
+Jun 09 14:31 : avahi: Service 'Music Player' successfully established.
+Jun 09 15:57 : avahi: Service 'Music Player' successfully established.
+Jun 09 18:18 : avahi: Service 'Music Player' successfully established.
+Jun 10 12:53 : avahi: Service 'Music Player' successfully established.
+Jun 10 13:02 : avahi: Client Disconnected, will reconnect shortly
+Jun 10 13:02 : avahi: Client Disconnected, will reconnect shortly
+Jun 10 13:02 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 10 13:21 : avahi: Service 'Music Player' successfully established.
+Jun 10 15:31 : avahi: Service 'Music Player' successfully established.
+Jun 10 20:17 : avahi: Service 'Music Player' successfully established.
+Jun 10 20:33 : avahi: Service 'Music Player' successfully established.
+Jun 11 09:49 : avahi: Service 'Music Player' successfully established.
+Jun 11 10:15 : avahi: Client Disconnected, will reconnect shortly
+Jun 11 10:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 11 10:36 : avahi: Service 'Music Player' successfully established.
+Jun 11 11:28 : avahi: Service 'Music Player' successfully established.
+Jun 11 19:41 : avahi: Service 'Music Player' successfully established.
+Jun 12 15:00 : avahi: Service 'Music Player' successfully established.
+Jun 12 18:33 : player: played "NewSongs/Hallelujah - Alexandra Burke.mp4"
+Jun 12 18:42 : player: played "NewSongs/somewhere i belong- linkin park.mp4"
+Jun 12 18:48 : player: played "NewSongs/Ed Sheeran - Supermarket Flowers [Official Audio].mp4"
+Jun 12 18:51 : player: played "NewSongs/Ed Sheeran - Bibia Be Ye Ye [Official Audio].mp4"
+Jun 12 18:55 : player: played "NewSongs/ed sheeran.mp4"
+Jun 12 19:01 : player: played "NewSongs/harry styles- sign of the times.mp4"
+Jun 12 19:06 : player: played "NewSongs/Tu Hi Hai.mp3"
+Jun 12 19:10 : player: played "NewSongs/Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber.mp4"
+Jun 12 19:13 : player: played "NewSongs/Story Of The Year - Sidewalks (Video) [www.keepvid.com].flv"
+Jun 12 19:17 : player: played "NewSongs/charlie puth - we don't talk anymore (feat. selena gomez) [official video].mp4"
+Jun 12 19:21 : player: played "NewSongs/one direction - one thing.mp4"
+Jun 12 19:32 : player: played "NewSongs/avicii ft. alesso - come to me.mp4"
+Jun 12 19:36 : player: played "NewSongs/fifth harmony - work from home ft. ty dolla $ign.mp4"
+Jun 12 19:41 : player: played "NewSongs/chutzpah - game of thrones ki kahani.mp4"
+Jun 12 19:46 : player: played "NewSongs/YouTube - Avenged Sevenfold - Dear God (video).flv"
+Jun 12 19:50 : player: played "NewSongs/Ed Sheeran - Dive [Official Audio].mp4"
+Jun 12 19:55 : player: played "NewSongs/Ed Sheeran - Thinking Out Loud [Official Video].mp4"
+Jun 12 19:59 : player: played "NewSongs/justin bieber - love yourself  (purpose  the movement).mp4"
+Jun 12 20:04 : player: played "NewSongs/junkyardgroove.mp4"
+Jun 12 20:07 : player: played "NewSongs/Eric Clapton- Wonderful Tonight.mp4"
+Jun 12 20:12 : player: played "NewSongs/Paparoach_HOLLYWOODWHORE_HiRes.mov"
+Jun 12 20:15 : player: played "NewSongs/Ed Sheeran - Nancy Mulligan [Official Audio].mp4"
+Jun 12 20:18 : player: played "NewSongs/florida georgia line - h.o.l.y..mp4"
+Jun 12 20:23 : player: played "NewSongs/someone like you.mp4"
+Jun 12 20:27 : player: played "NewSongs/Ed Sheeran - What Do I Know_ [Official Audio].mp4"
+Jun 12 20:31 : player: played "NewSongs/junkyard groove - screw control (krimson avenue sessions).mp4"
+Jun 12 20:36 : player: played "NewSongs/james arthur - impossible (ed sheeran cover) (wylen remix).mp4"
+Jun 12 20:40 : player: played "NewSongs/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp4"
+Jun 12 20:45 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 12 20:49 : player: played "NewSongs/Fuuka - For you.mp4"
+Jun 12 20:54 : player: played "NewSongs/body is a wonderland.mp4"
+Jun 12 20:57 : player: played "NewSongs/junkyard groove - say goodbye (acoustic).mp4"
+Jun 12 21:01 : player: played "NewSongs/Imagine Dragons - Demons (Official).mp4"
+Jun 12 21:05 : player: played "NewSongs/Charlie Puth - Attention [Official Video].mp4"
+Jun 12 21:09 : player: played "NewSongs/bruno mars - it will rain [official video].mp4"
+Jun 12 21:14 : player: played "NewSongs/Amy Winehouse - You Know I'm No Good 480p.mp4"
+Jun 12 21:18 : player: played "NewSongs/local train - chhoo lo.mp4"
+Jun 12 21:22 : player: played "NewSongs/bruno mars - when i was your man [official video].mp4"
+Jun 12 21:26 : player: played "NewSongs/twenty one pilots- stressed out [official video].mp4"
+Jun 12 21:31 : player: played "NewSongs/avicii ft. alesso - come to me.mp4"
+Jun 12 21:35 : player: played "NewSongs/junkyard groove - screw control (krimson avenue sessions).mp4"
+Jun 12 21:58 : player: played "NewSongs/mark ronson - uptown funk ft. bruno mars.mp4"
+Jun 12 22:02 : player: played "NewSongs/dc - back in black.mp4"
+Jun 12 22:06 : player: played "NewSongs/maroon 5 - sunday morning.mp4"
+Jun 12 22:11 : player: played "NewSongs/YouTube - Avenged Sevenfold - Dear God (video).flv"
+Jun 12 22:15 : player: played "NewSongs/the weeknd - can't feel my face.mp4"
+Jun 12 22:19 : player: played "NewSongs/acdc - tnt official video.mp4"
+Jun 12 22:22 : player: played "NewSongs/p!nk - stay with me (sam smith cover) in the live lounge.mp4"
+Jun 12 22:27 : player: played "NewSongs/Hillsong United - Hosanna - With Subtitles_Lyrics.mp4"
+Jun 12 22:32 : player: played "NewSongs/adele - someone like you.mp4"
+Jun 12 22:36 : player: played "NewSongs/YouTube - Disciple - Not Rock Stars.mp4"
+Jun 12 22:40 : player: played "NewSongs/Sunday morning love you.mp4"
+Jun 12 22:46 : player: played "NewSongs/harry styles- sign of the times.mp4"
+Jun 12 22:54 : player: played "NewSongs/rihanna - work (explicit) ft. drake.mp4"
+Jun 12 22:57 : player: played "NewSongs/Ed Sheeran - New Man [Official Audio].mp4"
+Jun 12 23:01 : player: played "NewSongs/Radioactive - Imagine Dragons (Boyce Avenue acoustic cover) on iTunes & Spotify.mp4"
+Jun 12 23:05 : player: played "NewSongs/junkyard groove - screw control (krimson avenue sessions).mp4"
+Jun 12 23:09 : player: played "NewSongs/Luis Fonsi, Daddy Yankee - Despacito (Audio) ft. Justin Bieber.mp4"
+Jun 12 23:14 : player: played "NewSongs/Ed Sheeran - Dive [Official Audio].mp4"
+Jun 12 23:18 : player: played "NewSongs/Alter Bridge - Isolation [www.keepvid.com].mp4"
+Jun 12 23:21 : player: played "NewSongs/linkin park- heavy .mp4"
+Jun 12 23:25 : player: played "NewSongs/the chainsmokers - don't let me down ft. daya.mp4"
+Jun 12 23:29 : player: played "NewSongs/Your Body Is A Wonderland - John Mayer (Boyce Avenue cover) on iTunes & Spotify.mp4"
+Jun 12 23:33 : player: played "NewSongs/lukas graham -  7 years [official music video].mp4"
+Jun 12 23:38 : player: played "NewSongs/Majesty - Delirious with Hillsong (lyrics) (Last part) Best True Spirit Worship Song.mp4"
+Jun 12 23:42 : player: played "NewSongs/charlie puth - one call away [official video].mp4"
+Jun 12 23:46 : player: played "NewSongs/underground authority.mp4"
+Jun 12 23:49 : player: played "NewSongs/Family of the Year - Hero (Official Music Video) 480p.mp4"
+Jun 12 23:53 : player: played "NewSongs/Story Of The Year - Sidewalks (Video) [www.keepvid.com].flv"
+Jun 12 23:57 : player: played "NewSongs/Wiz Khalifa - Black And Yellow [G-Mix] ft. Snoop Dogg, Juicy J _ T-Pain [www.keepvid.com].mp4"
+Jun 13 00:01 : player: played "NewSongs/Sheryl Crow - Sweet Child O'mine.mp4"
+Jun 13 00:05 : player: played "NewSongs/Ed Sheeran - Happier [Official Audio].mp4"
+Jun 13 00:09 : player: played "NewSongs/Fuuka - Fair wind - The fallen moon.mp4"
+Jun 13 00:12 : player: played "NewSongs/dnce - cake by the ocean (lyric).mp4"
+Jun 13 00:17 : player: played "NewSongs/local train - chhoo lo.mp4"
+Jun 13 00:20 : player: played "NewSongs/bars and melody - hopeful.mp4"
+Jun 13 00:24 : player: played "NewSongs/Love will keep us alive - The EAGLES (With lyrics).mp4"
+Jun 13 00:29 : player: played "NewSongs/Bullet For My Valentine - Scream Aim Fire.mp4"
+Jun 13 00:43 : avahi: Client Disconnected, will reconnect shortly
+Jun 13 00:43 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 13 00:43 : player: played "NewSongs/just one touch...phoebe cates&billy wray.wmv.mp4"
+Jun 13 08:36 : avahi: Service 'Music Player' successfully established.
+Jun 13 09:39 : player: played "NewSongs/just one touch...phoebe cates&billy wray.wmv.mp4"
+Jun 13 10:52 : avahi: Service 'Music Player' successfully established.
+Jun 13 12:51 : player: played "NewSongs/just one touch...phoebe cates&billy wray.wmv.mp4"
+Jun 13 12:58 : avahi: Service 'Music Player' successfully established.
+Jun 13 14:01 : player: played "NewSongs/just one touch...phoebe cates&billy wray.wmv.mp4"
+Jun 13 19:47 : avahi: Service 'Music Player' successfully established.
+Jun 13 20:00 : player: played "NewSongs/ed sheeran.mp4"
+Jun 13 20:06 : player: played "NewSongs/jason derulo - 'want to want me' (official video).mp4"
+Jun 13 20:20 : player: played "NewSongs/underground authority.mp4"
+Jun 13 20:24 : player: played "NewSongs/Ed Sheeran - Hearts Don't Break Round Here [Official Audio].mp4"
+Jun 13 20:26 : player: played "NewSongs/Cat Stevens – The Wind (OST Gifted).mp4"
+Jun 13 20:30 : player: played "NewSongs/Beautiful Soul -  Jesse McCartney (Boyce Avenue acoustic cover) on Apple & Spotify.mp4"
+Jun 13 20:36 : player: played "NewSongs/bruno mars - gorilla [official music video].mp4"
+Jun 13 20:41 : player: played "NewSongs/Bullet For My Valentine - Scream Aim Fire.mp4"
+Jun 13 20:45 : player: played "NewSongs/junkyardgroove.mp4"
+Jun 13 20:49 : player: played "NewSongs/avicii - waiting for love.mp4"
+Jun 13 20:53 : player: played "NewSongs/Your Body Is A Wonderland - John Mayer (Boyce Avenue cover) on iTunes & Spotify.mp4"
+Jun 13 20:57 : player: played "NewSongs/meghan trainor - like i'm gonna lose you ft. john legend.mp4"
+Jun 13 21:00 : player: played "NewSongs/Family of the Year - Hero (Official Music Video) 480p.mp4"
+Jun 13 21:04 : player: played "NewSongs/junkyard groove - say goodbye (acoustic).mp4"
+Jun 13 21:08 : player: played "NewSongs/Sunday morning love you.mp4"
+Jun 13 21:15 : player: played "NewSongs/Black Eyed Peas and Ariana Grande - Where Is The Love (One Love Manchester).mp4"
+Jun 13 21:19 : player: played "NewSongs/Ed Sheeran - Happier [Official Audio].mp4"
+Jun 13 21:22 : player: played "NewSongs/bruno mars - 24k magic [official video].mp4"
+Jun 13 21:27 : player: played "NewSongs/tvf-game of thrones.mp4"
+Jun 13 21:30 : player: played "NewSongs/Family of the Year - Hero (Official Music Video) 480p.mp4"
+Jun 13 21:36 : player: played "NewSongs/Hillsong United - Hosanna - With Subtitles_Lyrics.mp4"
+Jun 13 21:40 : player: played "NewSongs/alessia cara - wild things.mp4"
+Jun 13 21:43 : player: played "NewSongs/linkin park- heavy .mp4"
+Jun 13 21:47 : player: played "NewSongs/For Good Performed by Kristin Chenoweth and Idina Menzel - WICKED the Musical.mp4"
+Jun 13 21:50 : player: played "NewSongs/justin bieber - i'll show you.mp4"
+Jun 13 21:54 : player: played "NewSongs/charlie puth - we don't talk anymore (feat. selena gomez) [official video].mp4"
+Jun 13 21:58 : player: played "NewSongs/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp4"
+Jun 13 22:03 : player: played "NewSongs/local train- aaoge tm kabhi.mp4"
+Jun 13 22:07 : player: played "NewSongs/local train - chhoo lo.mp4"
+Jun 13 22:11 : player: played "NewSongs/florida georgia line - h.o.l.y..mp4"
+Jun 14 01:13 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 14 09:36 : avahi: Service 'Music Player' successfully established.
+Jun 14 10:10 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 14 13:15 : avahi: Service 'Music Player' successfully established.
+Jun 14 15:10 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 14 19:09 : avahi: Service 'Music Player' successfully established.
+Jun 15 01:10 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 15 09:43 : avahi: Service 'Music Player' successfully established.
+Jun 15 10:23 : avahi: Client Disconnected, will reconnect shortly
+Jun 15 10:23 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 15 10:23 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 15 12:23 : avahi: Service 'Music Player' successfully established.
+Jun 15 14:40 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 15 18:56 : avahi: Service 'Music Player' successfully established.
+Jun 16 01:12 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 16 08:37 : avahi: Service 'Music Player' successfully established.
+Jun 16 09:08 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 16 09:20 : avahi: Service 'Music Player' successfully established.
+Jun 16 10:20 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 16 13:21 : avahi: Service 'Music Player' successfully established.
+Jun 16 14:04 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 16 20:49 : avahi: Service 'Music Player' successfully established.
+Jun 17 00:25 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 17 09:16 : avahi: Service 'Music Player' successfully established.
+Jun 17 10:23 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 17 10:59 : avahi: Service 'Music Player' successfully established.
+Jun 17 13:35 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 17 17:33 : avahi: Service 'Music Player' successfully established.
+Jun 17 23:55 : player: played "NewSongs/Thirty Seconds To Mars - Kings and Queens (VEVO Presents).mp4"
+Jun 17 23:58 : avahi: Service 'Music Player' successfully established.
+Jun 18 01:12 : avahi: Client Disconnected, will reconnect shortly
+Jun 18 01:12 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 18 20:26 : avahi: Service 'Music Player' successfully established.
+Jun 19 00:08 : avahi: Service 'Music Player' successfully established.
+Jun 19 01:13 : avahi: Client Disconnected, will reconnect shortly
+Jun 19 01:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 19 14:03 : avahi: Service 'Music Player' successfully established.
+Jun 19 18:57 : avahi: Service 'Music Player' successfully established.
+Jun 19 21:33 : avahi: Service 'Music Player' successfully established.
+Jun 20 09:23 : avahi: Service 'Music Player' successfully established.
+Jun 20 18:53 : avahi: Service 'Music Player' successfully established.
+Jun 20 23:30 : avahi: Service 'Music Player' successfully established.
+Jun 21 00:41 : player: played "NewSongs/Paparoach_HOLLYWOODWHORE_HiRes.mov"
+Jun 21 14:49 : avahi: Service 'Music Player' successfully established.
+Jun 21 15:22 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 21 21:26 : avahi: Service 'Music Player' successfully established.
+Jun 22 04:34 : avahi: Client Disconnected, will reconnect shortly
+Jun 22 04:34 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 22 04:34 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 22 12:08 : avahi: Service 'Music Player' successfully established.
+Jun 22 13:21 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 22 16:52 : avahi: Service 'Music Player' successfully established.
+Jun 22 17:38 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 22 19:58 : avahi: Service 'Music Player' successfully established.
+Jun 22 23:16 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 23 10:23 : avahi: Service 'Music Player' successfully established.
+Jun 23 12:07 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 23 12:08 : avahi: Service 'Music Player' successfully established.
+Jun 23 16:24 : avahi: Client Disconnected, will reconnect shortly
+Jun 23 16:24 : avahi: Client Disconnected, will reconnect shortly
+Jun 23 16:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 23 16:24 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 23 18:30 : avahi: Service 'Music Player' successfully established.
+Jun 24 01:06 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 24 09:14 : avahi: Service 'Music Player' successfully established.
+Jun 24 11:51 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 24 12:37 : avahi: Service 'Music Player' successfully established.
+Jun 24 13:18 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 24 18:08 : avahi: Service 'Music Player' successfully established.
+Jun 25 02:44 : avahi: Client Disconnected, will reconnect shortly
+Jun 25 02:44 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 25 02:44 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 25 10:42 : avahi: Service 'Music Player' successfully established.
+Jun 25 11:11 : avahi: Client Disconnected, will reconnect shortly
+Jun 25 11:11 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 25 11:11 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 25 11:40 : avahi: Service 'Music Player' successfully established.
+Jun 25 14:50 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 25 18:06 : avahi: Service 'Music Player' successfully established.
+Jun 26 00:51 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 26 09:50 : avahi: Service 'Music Player' successfully established.
+Jun 26 10:44 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 26 11:01 : avahi: Service 'Music Player' successfully established.
+Jun 26 14:03 : avahi: Client Disconnected, will reconnect shortly
+Jun 26 14:03 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 26 14:03 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 26 17:45 : avahi: Service 'Music Player' successfully established.
+Jun 27 01:00 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 27 01:16 : avahi: Service 'Music Player' successfully established.
+Jun 27 01:59 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 27 15:46 : avahi: Service 'Music Player' successfully established.
+Jun 27 17:10 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 27 19:09 : avahi: Service 'Music Player' successfully established.
+Jun 28 04:56 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 28 11:21 : avahi: Service 'Music Player' successfully established.
+Jun 28 13:19 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 28 20:04 : avahi: Service 'Music Player' successfully established.
+Jun 28 20:55 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 28 20:57 : avahi: Service 'Music Player' successfully established.
+Jun 29 01:56 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 29 10:37 : avahi: Service 'Music Player' successfully established.
+Jun 29 13:28 : player: played "NewSongs/celine dion ave maria-- with lyrics.mp4"
+Jun 29 17:39 : avahi: Service 'Music Player' successfully established.
+Jun 29 22:05 : player: played "NewSongs/underground authority.mp4"
+Jun 29 22:07 : player: played "NewSongs/Heavy (Official Video) - Linkin Park (feat. Kiiara).mp4"
+Jun 29 22:11 : player: played "NewSongs/bruno mars - treasure [official music video].mp4"
+Jun 29 22:14 : player: played "NewSongs/one direction - live while we're young.mp4"
+Jun 29 22:28 : exception: "MPD" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Jun 29 22:42 : player: played "NewSongs/bruno mars - grenade [official video].mp4"
+Jun 29 22:51 : player: played "NewSongs/Tears Dont Fall-Acoustic-Bullet For My Valentine-Unplugged-HD.mp4"
+Jun 29 22:59 : player: played "NewSongs/Bullet For My Valentine - Scream Aim Fire.mp4"
+Jun 29 23:03 : player: played "NewSongs/lukas graham -  7 years [official music video].mp4"
+Jun 29 23:08 : player: played "NewSongs/[HIT] 에일리 - I will always love you 불후의 명곡2.20140412.mp4"
+Jun 29 23:13 : avahi: Client Disconnected, will reconnect shortly
+Jun 29 23:13 : exception: "MPD" [pulse] failed to play: disconnected
+Jun 29 23:13 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Jun 29 23:13 : player: played "NewSongs/Ed Sheeran - How Would You Feel (Paean) [Official Audio].mp4"
+Jun 30 17:55 : avahi: Service 'Music Player' successfully established.
+Jun 30 17:55 : player: played "NewSongs/Ed Sheeran - How Would You Feel (Paean) [Official Audio].mp4"
+Jun 30 17:58 : player: played "NewSongs/chutzpah - game of thrones ki kahani.mp4"
+Jul 01 14:19 : avahi: Service 'Music Player' successfully established.
+Jul 01 23:39 : avahi: Service 'Music Player' successfully established.

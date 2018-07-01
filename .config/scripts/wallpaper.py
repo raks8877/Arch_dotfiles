@@ -1,0 +1,27 @@
+import os
+import glob
+import subprocess
+import time
+import random
+
+images = glob.glob('/home/raks/Pictures/wallpapers-master/my/*')
+img = images[0]
+
+
+while img == images[0]:
+	random.shuffle(images)
+
+
+import os,sys
+os.system('killall blurme;sleep 2')
+
+os.system('rm -rf ~/.cache/blurme/*')
+os.system('rm -rf ~/.local/share/blurme/*')
+
+os.system('wal -n -i '+str(images[0])+';sleep 1')
+os.system('feh --bg-scale '+str(images[0]))
+
+os.system('nohup ~/.config/scripts/blurme -t 0.0000000001 > /dev/null 2>&1 &')
+
+
+
